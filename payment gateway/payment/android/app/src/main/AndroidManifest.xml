@@ -31,4 +31,6 @@
             android:name="flutterEmbedding"
             android:value="2" />
     </application>
+
+       <usees-permission android:name="android-permissioN.INTERNET"/>
 </manifest>
